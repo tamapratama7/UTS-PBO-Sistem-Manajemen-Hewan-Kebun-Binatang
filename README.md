@@ -1,8 +1,8 @@
 # UTS PBO Sistem Manajemen Hewan Kebun Binatang   
 ## Deskripsi Proyek  
 Program ini digunakan untuk mencatat, menampilkan, mengubah, dan menghapus data hewan beserta riwayat perawatannya di kebun binatang. Setiap hewan dikategorikan menjadi dua jenis:  
-- **Hewan Darat** — memiliki atribut tambahan berupa kecepatan lari (km/jam)  
-- **Hewan Air** — memiliki atribut tambahan berupa kedalaman renang maksimal (meter)
+- **Hewan Darat** : memiliki atribut tambahan berupa kecepatan lari (km/jam)  
+- **Hewan Air** : memiliki atribut tambahan berupa kedalaman renang maksimal (meter)
   
 Setiap data hewan juga dilengkapi dengan data **Perawatan Hewan** (ID perawatan, jenis perawatan, dan tanggal perawatan), sehingga riwayat kesehatan/perawatan setiap hewan dapat terekam dengan baik.
 
