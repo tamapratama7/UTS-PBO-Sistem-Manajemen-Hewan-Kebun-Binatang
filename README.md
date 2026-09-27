@@ -1,4 +1,9 @@
 # UTS PBO Sistem Manajemen Hewan Kebun Binatang   
+
+**Nama** : Noor Hamsyah Pratama  
+**NIM** : 2509116046  
+**Mata Kuliah** : Pemrograman Berorientasi Objek
+
 ## Deskripsi Proyek  
 Program ini digunakan untuk mencatat, menampilkan, mengubah, dan menghapus data hewan beserta riwayat perawatannya di kebun binatang. Setiap hewan dikategorikan menjadi dua jenis:  
 - **Hewan Darat** : memiliki atribut tambahan berupa kecepatan lari (km/jam)  
